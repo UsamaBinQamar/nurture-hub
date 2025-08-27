@@ -1,0 +1,11 @@
+email,name,company,status
+john.doe@example.com,John Doe,Tech Corp,Active
+invalid-email,Jane Smith,Design Studio,Active
+mike.johnson@example.com,Mike Johnson,Marketing Inc,Inactive
+sarah.wilson@example.com,Sarah Wilson,Startup XYZ,Active
+david.brown@example.com,David Brown,Consulting LLC,Active
+emma.davis@example.com,Emma Davis,Creative Agency,Inactive
+alex.garcia@example.com,Alex Garcia,Software Co,Active
+lisa.martinez@example.com,Lisa Martinez,Digital Solutions,Active
+tom.anderson@example.com,Tom Anderson,Web Services,Inactive
+rachel.taylor@example.com,Rachel Taylor,Innovation Lab,Active

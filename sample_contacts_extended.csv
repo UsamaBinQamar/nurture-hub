@@ -1,0 +1,11 @@
+email,name,company,status,phone,location,industry,last_contact
+john.doe@example.com,John Doe,Tech Corp,Active,+1-555-0101,San Francisco,Technology,2024-01-15
+jane.smith@example.com,Jane Smith,Design Studio,Active,+1-555-0102,New York,Design,2024-01-20
+mike.johnson@example.com,Mike Johnson,Marketing Inc,Inactive,+1-555-0103,Chicago,Marketing,2023-12-10
+sarah.wilson@example.com,Sarah Wilson,Startup XYZ,Active,+1-555-0104,Austin,Startup,2024-01-25
+david.brown@example.com,David Brown,Consulting LLC,Active,+1-555-0105,Boston,Consulting,2024-01-18
+emma.davis@example.com,Emma Davis,Creative Agency,Inactive,+1-555-0106,Los Angeles,Creative,2023-11-30
+alex.garcia@example.com,Alex Garcia,Software Co,Active,+1-555-0107,Seattle,Software,2024-01-22
+lisa.martinez@example.com,Lisa Martinez,Digital Solutions,Active,+1-555-0108,Miami,Digital,2024-01-19
+tom.anderson@example.com,Tom Anderson,Web Services,Inactive,+1-555-0109,Denver,Web Services,2023-12-05
+rachel.taylor@example.com,Rachel Taylor,Innovation Lab,Active,+1-555-0110,Portland,Innovation,2024-01-24
